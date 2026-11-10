@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 Mi nombre es John Castillo
 Edad: 44 Años
 Estudiante de Ingenieria de Sistemas
 Mi Nombre es Vaalentin Dominguez
 Edad: 34
 Estudiante de Ingenieria de Sistemas
-
+Min nombre es Naren Jimenez
+Edad: 25
+Estudiante de Ingenieria de Sistemas
